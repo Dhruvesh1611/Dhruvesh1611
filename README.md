@@ -46,8 +46,7 @@
 
 <img src="https://raw.githubusercontent.com/Dhruvesh1611/Dhruvesh1611/output/snake.svg" alt="Snake animation" />
 
-<<<<<<< HEAD
-###
-=======
-###
->>>>>>> update
+
+![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/Dhruvesh1611/Dhruvesh1611/output/github-contribution-grid-snake-dark.svg)
+## Visits
+![Visits Badge](https://profile-counter.glitch.me/Dhruvesh1611/count.svg)
