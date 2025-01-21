@@ -70,8 +70,8 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma"/>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
 </div>
 
@@ -89,7 +89,7 @@ Feel free to suggest improvements or collaborate on projects! 🚀
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhruvesh1611/Dhruvesh1611/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhruvesh1611/Dhruvesh1611/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Dhruvesh1611/Dhruvesh1611/output/github-snake.svg" />
 </picture>
