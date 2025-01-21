@@ -46,4 +46,8 @@
 
 <img src="https://raw.githubusercontent.com/Dhruvesh1611/Dhruvesh1611/output/snake.svg" alt="Snake animation" />
 
+<<<<<<< HEAD
 ###
+=======
+###
+>>>>>>> update
