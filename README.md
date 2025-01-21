@@ -42,11 +42,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Dhruvesh1611/Dhruvesh1611/output/snake.svg" alt="Snake animation" />
-
-
-![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/Dhruvesh1611/Dhruvesh1611/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 ## Visits
 ![Visits Badge](https://profile-counter.glitch.me/Dhruvesh1611/count.svg)
