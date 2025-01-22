@@ -84,7 +84,7 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
 </div> -->
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 25; justify-content: center;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
