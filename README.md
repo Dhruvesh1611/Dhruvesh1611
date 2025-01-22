@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Full-Stack web development projects**
 - 🌱 I’m currently learning **Next.js and Cloud Technologies**
 - 💬 Ask me about **React, Node.js, MongoDB, and JavaScript**
-- 📫 How to reach me: **[dhruveshshyara@gmail.com](mailto:dhruveshshyara@gmail.com)**
+- 📫 How to reach me: **[dhruvesh.shyara.cg@gmail.com](mailto:dhruveshshyara@gmail.com)**
 - ⚡ Fun fact: I love debugging code as much as I love solving puzzles 🧩
 
 ---
@@ -19,6 +19,7 @@
 ### 🛠️ My Skills
 
 #### Frontend Development
+
 - 💻 **Languages**: HTML, CSS, JavaScript
 - 📚 **Frameworks & Libraries**: React.js,vue.js
 
@@ -52,18 +53,27 @@
 ### 📫 Connect With Me
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="https://www.instagram.com/dhruveshshyara" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+  </a>
+  <a href="dhruvesh.shyara.cg@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/dhruveshshyara" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
+  <a href="https://x.com/dhruvesh1611?s=11" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" />
+  </a>
 </div>
+
 
 ---
 
 ### 🧰 Technologies & Tools
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+<!-- <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40",margin-right="100px" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
@@ -72,6 +82,18 @@
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma"/>
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+</div> -->
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
 </div>
 
